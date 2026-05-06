@@ -1,0 +1,28 @@
+$AMJ000100030001
+GD10PD10HLT                             
+$DTA
+Hello                                   
+$END0001
+$AMJ000200050001
+GD10LR12SR15PD10HLT                     
+$DTA
+I LIKE THIS PEN OF HIS                  
+$END0002
+$AMJ000300130003
+GD20PD20GD30PD30GD40GD50LR20CR30BT11PD40
+HLT PD50HLT                             
+$DTA
+ABCD                                    
+ABCD                                    
+NOT SAME                                
+IS SAME                                 
+$END0003
+$AMJ000400120003
+GD20PD20GD30PD30GD40GD50LR20CR30BT11PD40
+HLT PD50HLT                             
+$DTA
+VIT                                     
+VIIT                                    
+NOT SAME                                
+IS SAME                                 
+$END0004
